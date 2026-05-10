@@ -416,8 +416,9 @@ The application uses a real Gmail account in order to send booking confirmations
 
 <img width="1600" height="104" alt="image" src="https://github.com/user-attachments/assets/2100b71a-6c36-43ff-816b-6c7932b0088d" />
 
+
+
 This figure shows the delay notification emails received by customers after the administrator updated the train delay inside the application.
----
 
 <img width="912" height="909" alt="image" src="https://github.com/user-attachments/assets/f01bbda7-a71c-42f4-88b1-e85c941b1ce7" />
 
