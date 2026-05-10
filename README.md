@@ -59,8 +59,8 @@ Database connection configuration:
 
 ```properties
 db.url=jdbc:sqlserver://localhost:1433;databaseName=TrainTicketing_DBASE;encrypt=true;trustServerCertificate=true
-db.user=sa
-db.password=admin123
+db.user=your_sql_server_username
+db.password=your_sql_server_password
 ```
 
 ---
@@ -72,10 +72,9 @@ The application sends real emails using Gmail SMTP.
 ```properties
 mail.host=smtp.gmail.com
 mail.port=587
-mail.username=ticketappsiemens@gmail.com
-mail.password=gbet qmuj zrph yaoc
+mail.username=your_email@gmail.com
+mail.password=your_gmail_app_password
 ```
-
 ---
 
 # Database Schema
