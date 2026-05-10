@@ -391,32 +391,20 @@ The following screenshots show the database content after executing the applicat
 
 <img width="540" height="761" alt="image" src="https://github.com/user-attachments/assets/427af2eb-d2f7-4fb5-9a9b-474ddbc98ccf" />
 
-This figure demonstrates:
-
-* updated train data
-* added trains
-* available routes
+This figure shows the trains and routes currently stored inside the SQL Server database after administrator operations such as updating trains and managing routes.
 
 ---
 
 <img width="958" height="798" alt="image" src="https://github.com/user-attachments/assets/04ae22d1-78b7-4cd9-a100-e5b3ee47a9eb" />
 
-This figure demonstrates:
-
-* station ordering
-* train schedules
-* delay values
+This figure shows the route station ordering together with persisted train schedules and updated delay information stored in SQL Server.
 
 ---
 
 <img width="1044" height="760" alt="image" src="https://github.com/user-attachments/assets/cddb8eca-b0a0-4e1e-9124-fa4e3349939b" />
 
 
-This figure demonstrates:
-
-* stored bookings
-* customer emails
-* booked ticket counts
+This figure shows the persisted bookings stored in the database, including customer information, booked ticket counts, and booking timestamps.
 
 ---
 
@@ -428,21 +416,12 @@ The application uses a real Gmail account in order to send booking confirmations
 
 <img width="1600" height="104" alt="image" src="https://github.com/user-attachments/assets/2100b71a-6c36-43ff-816b-6c7932b0088d" />
 
-This figure demonstrates:
-
-* automatically generated delay notification emails
-* real email delivery through Gmail SMTP
+This figure shows the delay notification emails received by customers after the administrator updated the train delay inside the application.
 ---
 
 <img width="912" height="909" alt="image" src="https://github.com/user-attachments/assets/f01bbda7-a71c-42f4-88b1-e85c941b1ce7" />
 
-This figure demonstrates:
-
-* booking confirmation email content
-* train information
-* route information
-* departure and arrival times
-* ticket count
+This figure shows the booking confirmation email automatically sent after a successful ticket reservation.
 
 ---
 
